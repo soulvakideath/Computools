@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6a/Wa5nRhWLSO/mMQKvgPHen0PjKHeI7BYxzn4oGqYaJQnRf7lChmky6769t6N0+wfRSx2KGKI/9iKEYV4qqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrii\\Documents\\repos\\Computools\\Computools.Application\\Computools.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrii\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Andrii\\.nuget\\packages\\microsoft.aspnetcore.http.features\\6.0.0-preview.4.21253.5\\microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
+    "C:\\Users\\Andrii\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\Andrii\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.4.21253.7\\microsoft.extensions.primitives.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "C:\\Users\\Andrii\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\Andrii\\.nuget\\packages\\system.io.pipelines\\6.0.0-preview.4.21253.7\\system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "C:\\Users\\Andrii\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.4.21253.7\\system.runtime.compilerservices.unsafe.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
+  "logs": []
+}
